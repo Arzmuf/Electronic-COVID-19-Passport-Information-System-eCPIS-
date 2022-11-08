@@ -1,0 +1,10 @@
+155111 ariz 19 male 1 sinovac 21-10-21
+155112 rizki 60 male 2 astrazeneca 13-09-21
+155113 ridhan 7 male 1 pfizer 23-12-20
+155114 dustin 27 male 2 pfizer 30-10-21
+155115 justin 10 male 0 - 14-11-21
+155116 farah 70 female 1 sinovac 24-12-21
+155117 zulfikar 19 male 1 astrazeneca 07-10-21
+155118 muflih 29 male 1 sinovac 18-07-21
+155835 Salsabila 20 Female 2 sinovac 28-12-21
+27358 Audi 19 Female 2 astrazeneca 29-05-22
